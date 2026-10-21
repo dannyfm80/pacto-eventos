@@ -1,0 +1,42 @@
+[
+  {
+    "id": "noche-dj",
+    "title": "Noche de DJ",
+    "day": "25",
+    "month": "OCT",
+    "subtitle": "Música en vivo",
+    "description": "Los mejores beats para una noche inolvidable.",
+    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=900&q=85",
+    "message": "Hola, quisiera más información sobre el evento Noche de DJ en PACTO Live Bar."
+  },
+  {
+    "id": "cocteles-especiales",
+    "title": "Cócteles especiales",
+    "day": "31",
+    "month": "OCT",
+    "subtitle": "Sabores para descubrir",
+    "description": "Sabores únicos para brindar en buena compañía.",
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&w=900&q=85",
+    "message": "Hola, quisiera más información sobre el evento Cócteles Especiales en PACTO Live Bar."
+  },
+  {
+    "id": "noche-acustica",
+    "title": "Noche acústica",
+    "day": "07",
+    "month": "NOV",
+    "subtitle": "Música en directo",
+    "description": "Un ambiente diferente con música en vivo.",
+    "image": "https://images.unsplash.com/photo-1506157786151-b8491531f063?auto=format&fit=crop&w=900&q=85",
+    "message": "Hola, quisiera más información sobre el evento Noche Acústica en PACTO Live Bar."
+  },
+  {
+    "id": "una-noche-en-pacto",
+    "title": "Una noche en PACTO",
+    "day": "14",
+    "month": "NOV",
+    "subtitle": "Una experiencia diferente",
+    "description": "Comparte buenos momentos en un ambiente único.",
+    "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=900&q=85",
+    "message": "Hola, quisiera más información sobre el evento Una noche en PACTO Live Bar."
+  }
+]
