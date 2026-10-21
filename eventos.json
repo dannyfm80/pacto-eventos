@@ -1,23 +1,23 @@
 [
   {
-    "id": "noche-dj",
-    "title": "Noche de DJ",
-    "day": "25",
+    "id": "otro",
+    "title": "Vocal Mix de Carlitos Urquidi y Fabi",
+    "day": "17",
     "month": "OCT",
     "subtitle": "Música en vivo",
-    "description": "Los mejores beats para una noche inolvidable.",
-    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=900&q=85",
-    "message": "Hola, quisiera más información sobre el evento Noche de DJ en PACTO Live Bar."
+    "description": "Vamos a resolver un gran dilema, quien gana cantando cumbiones los hombres o las mujeres? Para este versus tenemos a Vocal Mix de Carlitos Urquidi y Fabi, que nos tienen una setlist para una noche de fiesta bailable",
+    "image": "https://drive.google.com/drive/u/6/folders/1Y8oQuFj0sLKKSMy3CdRSyudfhJGxl8mF?auto=format&fit=crop&w=900&q=8",
+    "message": "Hola, quisiera más información sobre el evento Vocal Mix de Carlitos Urquidi y Fabi en PACTO Live Bar."
   },
   {
-    "id": "cocteles-especiales",
-    "title": "Cócteles especiales",
-    "day": "31",
+    "id": "CHILE VALDÉS",
+    "title": "CHILE VALDÉS",
+    "day": "16",
     "month": "OCT",
     "subtitle": "Sabores para descubrir",
-    "description": "Sabores únicos para brindar en buena compañía.",
-    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&w=900&q=85",
-    "message": "Hola, quisiera más información sobre el evento Cócteles Especiales en PACTO Live Bar."
+    "description": "Este viernes 16 preparamos la maquina del tiempo para viajar junto al CHILE VALDÉS para cantar bellos clasicos en ingles y español.",
+    "image": "https://drive.google.com/drive/u/6/folders/1Y8oQuFj0sLKKSMy3CdRSyudfhJGxl8mF?auto=format&fit=crop&w=900&q=85",
+     "message": "Hola, quisiera más información sobre el evento  CHILE VALDÉS en PACTO Live Bar."
   },
   {
     "id": "noche-acustica",
