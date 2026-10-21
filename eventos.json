@@ -1,12 +1,12 @@
 [
   {
-    "id": "otro",
+    "id": "Vocal Mix",
     "title": "Vocal Mix de Carlitos Urquidi y Fabi",
     "day": "17",
     "month": "OCT",
     "subtitle": "Música en vivo",
     "description": "Vamos a resolver un gran dilema, quien gana cantando cumbiones los hombres o las mujeres? Para este versus tenemos a Vocal Mix de Carlitos Urquidi y Fabi, que nos tienen una setlist para una noche de fiesta bailable",
-    "image": "https://drive.google.com/drive/u/6/folders/1Y8oQuFj0sLKKSMy3CdRSyudfhJGxl8mF?auto=format&fit=crop&w=900&q=8",
+    "image": "https://drive.google.com/thumbnail?id=1fNrXIu1BBJ5Avf1aLxZU-0JRHQLWhrPN&sz=w1200",
     "message": "Hola, quisiera más información sobre el evento Vocal Mix de Carlitos Urquidi y Fabi en PACTO Live Bar."
   },
   {
@@ -16,27 +16,7 @@
     "month": "OCT",
     "subtitle": "Sabores para descubrir",
     "description": "Este viernes 16 preparamos la maquina del tiempo para viajar junto al CHILE VALDÉS para cantar bellos clasicos en ingles y español.",
-    "image": "https://drive.google.com/drive/u/6/folders/1Y8oQuFj0sLKKSMy3CdRSyudfhJGxl8mF?auto=format&fit=crop&w=900&q=85",
+    "image": "https://drive.google.com/thumbnail?id=17rn9rCXlm_APuBVG-H2OWcX6M4fH0bZK&sz=w1200",
      "message": "Hola, quisiera más información sobre el evento  CHILE VALDÉS en PACTO Live Bar."
-  },
-  {
-    "id": "noche-acustica",
-    "title": "Noche acústica",
-    "day": "07",
-    "month": "NOV",
-    "subtitle": "Música en directo",
-    "description": "Un ambiente diferente con música en vivo.",
-    "image": "https://images.unsplash.com/photo-1506157786151-b8491531f063?auto=format&fit=crop&w=900&q=85",
-    "message": "Hola, quisiera más información sobre el evento Noche Acústica en PACTO Live Bar."
-  },
-  {
-    "id": "una-noche-en-pacto",
-    "title": "Una noche en PACTO",
-    "day": "14",
-    "month": "NOV",
-    "subtitle": "Una experiencia diferente",
-    "description": "Comparte buenos momentos en un ambiente único.",
-    "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=900&q=85",
-    "message": "Hola, quisiera más información sobre el evento Una noche en PACTO Live Bar."
   }
 ]
